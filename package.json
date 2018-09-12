@@ -1,0 +1,16 @@
+{
+  "name": "text_to_speech",
+  "version": "1.0.0",
+  "description": "takes input as text and reads out the information passed by the input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.11.0",
+    "gtts": "^0.2.1"
+  },
+  "author": "Bharathi",
+  "license": "ISC"
+}
