@@ -5,7 +5,7 @@ Takes input as text and reads out the information passed by input.
 > Make sure you have [Node.Js](https://nodejs.org/en/)
 ```
 git clone https://github.com/Banu555/ttsWebApp.git
-cd test-master
+cd ttsWebApp-master
 npm install
 npm start
 ```
