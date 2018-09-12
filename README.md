@@ -1,7 +1,4 @@
 # ttsWebApp
-takes input as text and reads out the information passed by input.
-
-# ttsWebApp
 Takes input as text and reads out the information passed by input.
 
 # Running locally
